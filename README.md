@@ -13,7 +13,7 @@ Question 3: Threads allows a program to operate more efficiently by doing multip
 Question 4: 
 
     Should add Thread.sleep() to complete currently Threads. 
-    javac Car2.java
-    java Car2
+    javac Car3.java
+    java Car3
     
     Using 'synchronized' to define  synchronization threading
