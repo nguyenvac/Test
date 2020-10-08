@@ -17,3 +17,4 @@ Question 4:
     java Car3
     
     Using 'synchronized' to define  synchronization threading
+//
